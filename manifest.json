@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Reading time",
     "version": "1.0",
-    "description": "Add the reading time to Chrome Extension documentation articles",
+    "description": "Add the reading time to Wikipedia pages",
 
     "icons": {
         "16": "images/icon-16.png",
@@ -15,6 +15,7 @@
         "js": ["scripts/wikipedia.js"],
         "matches": [
         "https://en.m.wikipedia.org/wiki/*",
+        "https://en.wikipedia.org/wiki/*",
         "https://developer.chrome.com/docs/extensions/*",
         "https://developer.chrome.com/docs/webstore/*",
         "https://developer.chrome.com/docs/devtools/*",
