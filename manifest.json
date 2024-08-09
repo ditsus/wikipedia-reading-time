@@ -2,7 +2,11 @@
     "manifest_version": 3,
     "name": "Reading time",
     "version": "1.0",
+<<<<<<< HEAD
     "description": "Add the reading time to Wikipedia pages",
+=======
+    "description": "Add the reading time to wikipedia pages",
+>>>>>>> 812155113deecd50fbbdefb6b32fc6467e2230ab
 
     "icons": {
         "16": "images/icon-16.png",
