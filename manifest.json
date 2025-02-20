@@ -15,11 +15,7 @@
         "js": ["scripts/wikipedia.js"],
         "matches": [
         "https://en.m.wikipedia.org/wiki/*",
-        "https://en.wikipedia.org/wiki/*",
-        "https://developer.chrome.com/docs/extensions/*",
-        "https://developer.chrome.com/docs/webstore/*",
-        "https://developer.chrome.com/docs/devtools/*",
-        "https://developer.chrome.com/docs/workbox/*"   
+        "https://en.wikipedia.org/wiki/*",  
         ]
     }]
 }
